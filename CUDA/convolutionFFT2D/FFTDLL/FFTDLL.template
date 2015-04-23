@@ -1,0 +1,233 @@
+
+
+
+record(longin, "$(P)$(R)w_run_counter")
+{
+   field(PINI, "1")
+   field(DTYP, "asynInt32")
+   field(INP,  "@asyn($(PORT),$(ADDR),$(TIMEOUT))w_run_counter")
+   field(SCAN, "I/O Intr")
+}
+
+record(longout, "$(P)$(R)w_is_sleep")
+{
+   field(DTYP, "asynInt32")
+   field(OUT,  "@asyn($(PORT),$(ADDR),$(TIMEOUT))w_is_sleep")
+}
+
+
+record(longout, "$(P)$(R)w_sleep_ms")
+{
+   field(DTYP, "asynInt32")
+   field(OUT,  "@asyn($(PORT),$(ADDR),$(TIMEOUT))w_sleep_ms")
+}
+
+
+
+record(longin, "$(P)$(R)gpu_keep_gpu_running_RBV")
+{
+   field(PINI, "1")
+   field(DTYP, "asynInt32")
+   field(INP,  "@asyn($(PORT),$(ADDR),$(TIMEOUT))gpu_keep_gpu_running")
+   field(SCAN, "I/O Intr")
+}
+
+record(longout, "$(P)$(R)gpu_keep_gpu_running")
+{
+   field(DTYP, "asynInt32")
+   field(OUT,  "@asyn($(PORT),$(ADDR),$(TIMEOUT))gpu_keep_gpu_running")
+}
+
+
+
+record(longin, "$(P)$(R)gpu_shut_gpu_RBV")
+{
+   field(PINI, "1")
+   field(DTYP, "asynInt32")
+   field(INP,  "@asyn($(PORT),$(ADDR),$(TIMEOUT))gpu_shut_gpu")
+   field(SCAN, "I/O Intr")
+}
+
+record(longout, "$(P)$(R)gpu_shut_gpu")
+{
+   field(DTYP, "asynInt32")
+   field(OUT,  "@asyn($(PORT),$(ADDR),$(TIMEOUT))gpu_shut_gpu")
+}
+
+
+
+
+
+record(longin, "$(P)$(R)gpu_xfer2gpu_RBV")
+{
+   field(PINI, "1")
+   field(DTYP, "asynInt32")
+   field(INP,  "@asyn($(PORT),$(ADDR),$(TIMEOUT))gpu_xfer2gpu")
+   field(SCAN, "I/O Intr")
+}
+
+record(longout, "$(P)$(R)gpu_xfer2gpu")
+{
+   field(DTYP, "asynInt32")
+   field(OUT,  "@asyn($(PORT),$(ADDR),$(TIMEOUT))gpu_xfer2gpu")
+}
+
+
+
+
+record(longin, "$(P)$(R)gpu_run_ffts_RBV")
+{
+   field(PINI, "1")
+   field(DTYP, "asynInt32")
+   field(INP,  "@asyn($(PORT),$(ADDR),$(TIMEOUT))gpu_run_ffts")
+   field(SCAN, "I/O Intr")
+}
+
+record(longout, "$(P)$(R)gpu_run_ffts")
+{
+   field(DTYP, "asynInt32")
+   field(OUT,  "@asyn($(PORT),$(ADDR),$(TIMEOUT))gpu_run_ffts")
+}
+
+
+
+
+record(longin, "$(P)$(R)gpu_dark_sub_RBV")
+{
+   field(PINI, "1")
+   field(DTYP, "asynInt32")
+   field(INP,  "@asyn($(PORT),$(ADDR),$(TIMEOUT))gpu_dark_sub")
+   field(SCAN, "I/O Intr")
+}
+
+record(longout, "$(P)$(R)gpu_dark_sub")
+{
+   field(DTYP, "asynInt32")
+   field(OUT,  "@asyn($(PORT),$(ADDR),$(TIMEOUT))gpu_dark_sub")
+}
+
+
+record(longin, "$(P)$(R)gpu_host_dark_sub_RBV")
+{
+   field(PINI, "1")
+   field(DTYP, "asynInt32")
+   field(INP,  "@asyn($(PORT),$(ADDR),$(TIMEOUT))gpu_host_dark_sub")
+   field(SCAN, "I/O Intr")
+}
+
+record(longout, "$(P)$(R)gpu_host_dark_sub")
+{
+   field(DTYP, "asynInt32")
+   field(OUT,  "@asyn($(PORT),$(ADDR),$(TIMEOUT))gpu_host_dark_sub")
+}
+
+
+
+
+record(longin, "$(P)$(R)gpu_set_dark_RBV")
+{
+   field(PINI, "1")
+   field(DTYP, "asynInt32")
+   field(INP,  "@asyn($(PORT),$(ADDR),$(TIMEOUT))gpu_set_dark")
+   field(SCAN, "I/O Intr")
+}
+
+record(longout, "$(P)$(R)gpu_set_dark")
+{
+   field(DTYP, "asynInt32")
+   field(OUT,  "@asyn($(PORT),$(ADDR),$(TIMEOUT))gpu_set_dark")
+}
+
+
+
+
+
+
+record(longin, "$(P)$(R)gpu_host_set_dark_RBV")
+{
+   field(PINI, "1")
+   field(DTYP, "asynInt32")
+   field(INP,  "@asyn($(PORT),$(ADDR),$(TIMEOUT))gpu_host_set_dark")
+   field(SCAN, "I/O Intr")
+}
+
+record(longout, "$(P)$(R)gpu_host_set_dark")
+{
+   field(DTYP, "asynInt32")
+   field(OUT,  "@asyn($(PORT),$(ADDR),$(TIMEOUT))gpu_host_set_dark")
+}
+
+
+
+
+
+
+
+record(longin, "$(P)$(R)gpu_host_fft_RBV")
+{
+   field(PINI, "1")
+   field(DTYP, "asynInt32")
+   field(INP,  "@asyn($(PORT),$(ADDR),$(TIMEOUT))gpu_host_fft")
+   field(SCAN, "I/O Intr")
+}
+
+record(longout, "$(P)$(R)gpu_host_fft")
+{
+   field(DTYP, "asynInt32")
+   field(OUT,  "@asyn($(PORT),$(ADDR),$(TIMEOUT))gpu_host_fft")
+}
+
+
+
+
+
+
+record(longin, "$(P)$(R)gpu_host_ret_filt_RBV")
+{
+   field(PINI, "1")
+   field(DTYP, "asynInt32")
+   field(INP,  "@asyn($(PORT),$(ADDR),$(TIMEOUT))gpu_host_ret_filt")
+   field(SCAN, "I/O Intr")
+}
+
+record(longout, "$(P)$(R)gpu_host_ret_filt")
+{
+   field(DTYP, "asynInt32")
+   field(OUT,  "@asyn($(PORT),$(ADDR),$(TIMEOUT))gpu_host_ret_filt")
+}
+
+
+
+
+
+
+record(longin, "$(P)$(R)hi_speed_view_RBV")
+{
+   field(PINI, "1")
+   field(DTYP, "asynInt32")
+   field(INP,  "@asyn($(PORT),$(ADDR),$(TIMEOUT))hi_speed_view")
+   field(SCAN, "I/O Intr")
+}
+
+record(longout, "$(P)$(R)hi_speed_view")
+{
+   field(DTYP, "asynInt32")
+   field(OUT,  "@asyn($(PORT),$(ADDR),$(TIMEOUT))hi_speed_view")
+}
+
+
+
+record(longin, "$(P)$(R)gpu_ret_new_img_RBV")
+{
+   field(PINI, "1")
+   field(DTYP, "asynInt32")
+   field(INP,  "@asyn($(PORT),$(ADDR),$(TIMEOUT))gpu_ret_new_img")
+   field(SCAN, "I/O Intr")
+}
+
+record(longout, "$(P)$(R)gpu_ret_new_img")
+{
+   field(DTYP, "asynInt32")
+   field(OUT,  "@asyn($(PORT),$(ADDR),$(TIMEOUT))gpu_ret_new_img")
+}
+

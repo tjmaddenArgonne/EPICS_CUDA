@@ -1,0 +1,6 @@
+; FFTDLL.def : Declares the module parameters for the DLL.
+
+LIBRARY      "FFTDLL"
+
+EXPORTS
+    ; Explicit exports can go here

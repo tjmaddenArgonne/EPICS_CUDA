@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/detpool/!svn/ver/1167/MADDEN/GPU/convolutionFFT2D/FFTDLL/Debug
+END
+ccd_exception.obj
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/detpool/!svn/ver/1167/MADDEN/GPU/convolutionFFT2D/FFTDLL/Debug/ccd_exception.obj
+END
+thread.obj
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/detpool/!svn/ver/1167/MADDEN/GPU/convolutionFFT2D/FFTDLL/Debug/thread.obj
+END
+convolutionFFT2D_gold.obj
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/detpool/!svn/ver/1167/MADDEN/GPU/convolutionFFT2D/FFTDLL/Debug/convolutionFFT2D_gold.obj
+END
+convolutionFFT2D.cu.obj
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/detpool/!svn/ver/1167/MADDEN/GPU/convolutionFFT2D/FFTDLL/Debug/convolutionFFT2D.cu.obj
+END
+FFTDLL.pch
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/detpool/!svn/ver/1167/MADDEN/GPU/convolutionFFT2D/FFTDLL/Debug/FFTDLL.pch
+END
+stopWatch.obj
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/detpool/!svn/ver/1167/MADDEN/GPU/convolutionFFT2D/FFTDLL/Debug/stopWatch.obj
+END
+vc90.pdb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/detpool/!svn/ver/1167/MADDEN/GPU/convolutionFFT2D/FFTDLL/Debug/vc90.pdb
+END
+mt.dep
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/detpool/!svn/ver/1167/MADDEN/GPU/convolutionFFT2D/FFTDLL/Debug/mt.dep
+END
+BuildLog.htm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/detpool/!svn/ver/1167/MADDEN/GPU/convolutionFFT2D/FFTDLL/Debug/BuildLog.htm
+END
+logfile.obj
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/detpool/!svn/ver/1167/MADDEN/GPU/convolutionFFT2D/FFTDLL/Debug/logfile.obj
+END
+exe.obj
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/detpool/!svn/ver/1167/MADDEN/GPU/convolutionFFT2D/FFTDLL/Debug/exe.obj
+END
+FFTDLL.dll.embed.manifest.res
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/detpool/!svn/ver/1167/MADDEN/GPU/convolutionFFT2D/FFTDLL/Debug/FFTDLL.dll.embed.manifest.res
+END
+FFTDLL.res
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/detpool/!svn/ver/1167/MADDEN/GPU/convolutionFFT2D/FFTDLL/Debug/FFTDLL.res
+END
+FFTDLL.dll.intermediate.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/detpool/!svn/ver/1167/MADDEN/GPU/convolutionFFT2D/FFTDLL/Debug/FFTDLL.dll.intermediate.manifest
+END
+putGetParameters.obj
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/detpool/!svn/ver/1167/MADDEN/GPU/convolutionFFT2D/FFTDLL/Debug/putGetParameters.obj
+END
+FFTDLL.dll.embed.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/detpool/!svn/ver/1167/MADDEN/GPU/convolutionFFT2D/FFTDLL/Debug/FFTDLL.dll.embed.manifest
+END
+tinytiff.obj
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/detpool/!svn/ver/1167/MADDEN/GPU/convolutionFFT2D/FFTDLL/Debug/tinytiff.obj
+END
+genCamController.obj
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/detpool/!svn/ver/1167/MADDEN/GPU/convolutionFFT2D/FFTDLL/Debug/genCamController.obj
+END
+mutex.obj
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/detpool/!svn/ver/1167/MADDEN/GPU/convolutionFFT2D/FFTDLL/Debug/mutex.obj
+END
+gpuCamera.obj
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/detpool/!svn/ver/1167/MADDEN/GPU/convolutionFFT2D/FFTDLL/Debug/gpuCamera.obj
+END
+vc90.idb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/detpool/!svn/ver/1167/MADDEN/GPU/convolutionFFT2D/FFTDLL/Debug/vc90.idb
+END
